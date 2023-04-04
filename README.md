@@ -4,7 +4,7 @@ Hi 👋 Jocelyn Gutiérrez here!
 Software Developer
 ------------------
 
-Ingeniera en Informática de Duoc UC, con un año de experiencia en el desarrollo de aplicaciones de escritorio y servicios Web, gracias a diversos lenguajes y tecnologías, así como Java, Python, C#, VB6, Javascript, Cobol entre otros. Me gusta trabajar en equipo, constantemente buscando mejorar mi calidad de trabajo, automatizando tareas del día a día.
+Soy Ingeniera en Informática graduada de Duoc UC, con dos años de experiencia en el desarrollo de aplicaciones de escritorio y servicios web utilizando diversas tecnologías y lenguajes de programación, entre ellos Java, Python, C#, VB6 y Javascript, así como Cobol, entre otros. Me destaco por trabajar de manera colaborativa y busco constantemente mejorar mi calidad de trabajo, además de encontrar oportunidades para automatizar tareas y optimizar los procesos del día a día.
 
 * 🌍  Chile
 * ✉️  Hablemos! [jocelyngutierrezlizana@gmail.com](mailto:jocelyngutierrezlizana@gmail.com)
